@@ -1,0 +1,5 @@
+deprecation==2.1.0
+eyeD3==0.9.5
+filetype==1.0.7
+packaging==20.7
+pyparsing==2.4.7
